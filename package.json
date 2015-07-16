@@ -1,0 +1,19 @@
+{
+  "name": "fluxing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaBayan/fluxing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaBayan/fluxing/issues"
+  },
+  "homepage": "https://github.com/SashaBayan/fluxing#readme"
+}
